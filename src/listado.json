@@ -1,0 +1,20 @@
+[
+    {
+        "nombre": "Jose",
+        "matematicas": 4,
+        "ingles": 3,
+        "programacion": 5
+    },
+    {
+        "nombre": "Pedro",
+        "matematicas": 5,
+        "ingles": 5,
+        "programacion": 5
+    },
+    {
+        "nombre": "Roberto",
+        "matematicas": 4,
+        "ingles": 4,
+        "programacion": 4
+    }
+]

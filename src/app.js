@@ -20,11 +20,12 @@ app.get('/', (req, res) => {
 app.post('/calculos', (req, res) => {
 
     res.render('calculos', {
-        estudiante: req.body.nombre,
+        estudiante: req.body.nombre, 
         nota1: parseInt(req.body.nota1),
         nota2: parseInt(req.body.nota2),
         nota3: parseInt(req.body.nota3)
     });
+  
 });
 
 app.get('*',(req,res)=>{
